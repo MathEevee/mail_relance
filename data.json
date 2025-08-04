@@ -1,0 +1,17 @@
+{
+    "DataCenter": [
+        {
+            "entreprise" : "Credit Agricole",
+            "first contact": "10-06-2025",
+            "relance": "10-07-2025",
+            "female": false,
+            "name": "Fernandez",
+            "mail": "Michel.FERNANDEZ@ca-charente-perigord.fr"
+        },
+        {
+            "plateform" : "linkedin",
+            "entreprise" : "sadsad",
+            "first contact": "09-06-2025"
+        }
+    ]
+}
